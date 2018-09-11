@@ -6,3 +6,14 @@
   max-height: 400px;
   overflow: auto;
 }
+
+body {
+    background-color: dodgerblue;
+}
+h1 {
+    color: sandybrown;
+}
+
+h4 {
+    color: sandybrown;
+}
